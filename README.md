@@ -22,3 +22,14 @@
 > 2. min heap 을 이용하여 오름차순 정렬을 구현한다.  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C3/hw3_2.c) <br>
 > 3. Median 을 찾기 위한 Heap 구현 및 이를 이용한 sort.  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C3/hw3_3.c)<br>
 >> 입력파일 : [input](https://github.com/dnjsrb0710/Algorithm/tree/master/%EA%B3%BC%EC%A0%9C3/input)
+
+<br>
+
+## 과제 4
+>[문제설명](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C4/alg2020-hw4%20(1).pdf) <br>
+> <br>목적: 단어의 출현회수 세기. 공백으로 분할된 단어(word)들이 전체 파일에서 몇 번 있는지 수를 세고,
+출현회수의 내림차순으로(큰 것에서 작은 것으로) 단어-출현회수를 저장한다.
+입력: 텍스트 파일
+출력: 텍스트 파일, 단어와 출현회수만 출력  <br><br>
+> 코드 : [countword.c](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C4/countwords.c)<br>
+> 입력파일 : [input](https://github.com/dnjsrb0710/Algorithm/tree/master/%EA%B3%BC%EC%A0%9C4/input)
