@@ -33,3 +33,12 @@
 출력: 텍스트 파일, 단어와 출현회수만 출력  <br><br>
 > 코드 : [countword.c](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C4/countwords.c)<br>
 > 입력파일 : [input](https://github.com/dnjsrb0710/Algorithm/tree/master/%EA%B3%BC%EC%A0%9C4/input)
+
+<br>
+
+## 과제 5
+>[문제설명](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C5/alg2020-hw5%20(2).pdf)<br>
+> 1. Longest common subsequence (LCS)  :  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C5/lcs.c)
+> 2. Shortest water slit path  :  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C5/sws.c) , [코드 설명](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C5/sws.pdf.pdf)
+> 3.  제한된 경로의 길이로 최대한 많은 점 방문하기(forward travelling salesperson) :  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C5/fts.c)  , [코드 설명](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C5/fts.pdf)
+>> 3번 과제 입력파일 : [input](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C5/hw5-3_ex1.txt)
