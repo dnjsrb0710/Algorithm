@@ -9,4 +9,10 @@
 
 <br>
 
+## 과제 2
+> #### 다음과 같이 주어진 [입출력 조건](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/hw2_v2.pdf)에 따라 삽입(insertion), 선택(selection), 거품(bubble) 정렬 알고리즘을 구현한다.
+>>코드 :  [template_sort_int_simple.c](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/template_sort_int_simple.c) , [template_sort_chararray_simple.c](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/template_sort_chararray_simple.c) , [template_sort_string_simple.c](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/template_sort_string_simple.c) <br>
+>>입력파일 : **text** - [input10.c](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/input10) , [input1234.c](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/input1234)  **arry** - [imagine](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/imagine) , [ihaveadream](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C2/ihaveadream) 
+
+<br>
 
