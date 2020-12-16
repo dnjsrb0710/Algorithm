@@ -16,3 +16,9 @@
 
 <br>
 
+## 과제 3 
+>[문제 설명](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C3/alg2020-hw3_200608_update%20(1).pdf) <br>
+> 1. max heap 을 이용하여 오름차순 정렬을 구현한다.  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C3/hw3_1.c) <br>
+> 2. min heap 을 이용하여 오름차순 정렬을 구현한다.  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C3/hw3_2.c) <br>
+> 3. Median 을 찾기 위한 Heap 구현 및 이를 이용한 sort.  [code](https://github.com/dnjsrb0710/Algorithm/blob/master/%EA%B3%BC%EC%A0%9C3/hw3_3.c)<br>
+>> 입력파일 : [input](https://github.com/dnjsrb0710/Algorithm/tree/master/%EA%B3%BC%EC%A0%9C3/input)
